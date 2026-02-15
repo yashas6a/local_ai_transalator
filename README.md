@@ -1,5 +1,9 @@
 # local_ai_transalator
-python translator script that runs locally using gemma3 model 
+python translator script with GUI that runs locally using gemma3 model or any other model u want to use.
+
+#Script 1 : main.py
+uses llamacpp and streamlit
+has 
 
 uses nicegui 
 
