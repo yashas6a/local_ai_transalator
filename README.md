@@ -1,6 +1,9 @@
 # local_ai_transalator
 python translator script with GUI that runs locally using gemma3 model or any other model u want to use.
 
+#Requirements:
+ideally a faster GPU, but the model can run on cpu aswell
+
 #Script 1 : main.py
 FEATURES : 
 ->Uses llama_cpp, pytorch for ocr, streamlit for gui
